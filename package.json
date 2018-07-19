@@ -1,0 +1,22 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^3.23.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.246.1",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.2.1"
+  }
+}
